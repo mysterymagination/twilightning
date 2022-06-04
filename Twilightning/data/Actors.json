@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"Jazmina","characterIndex":0,"characterName":"Jazmina","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Jazmina","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jazmina","nickname":"Jazzy","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
