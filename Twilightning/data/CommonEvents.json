@@ -2,6 +2,6 @@
 null,
 {"id":1,"list":[{"code":104,"indent":0,"parameters":[1,1]},{"code":0,"indent":0,"parameters":[]}],"name":"Spark Used","switchId":1,"trigger":0},
 {"id":2,"list":[{"code":101,"indent":0,"parameters":["Jazmine_Blush_Embarrassed",0,0,2]},{"code":401,"indent":0,"parameters":["I need a lie down."]},{"code":0,"indent":0,"parameters":[]}],"name":"Flustered","switchId":1,"trigger":0},
-{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
-{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
+{"id":3,"list":[{"code":104,"indent":0,"parameters":[2,1]},{"code":111,"indent":0,"parameters":[1,1,0,5,0]},{"code":111,"indent":1,"parameters":[1,2,0,7,0]},{"code":126,"indent":2,"parameters":[5,1,0,1]},{"code":126,"indent":2,"parameters":[7,1,0,1]},{"code":126,"indent":2,"parameters":[8,0,0,1]},{"code":101,"indent":2,"parameters":["Jazmina",0,0,2]},{"code":401,"indent":2,"parameters":["Ooh, what a cool thingamy I've made."]},{"code":401,"indent":2,"parameters":["What's the next step, I wonder?"]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Combine Items","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":122,"indent":0,"parameters":[1,1,0,0,5]},{"code":0,"indent":0,"parameters":[]}],"name":"Store Primary Mix Item","switchId":1,"trigger":0}
 ]
